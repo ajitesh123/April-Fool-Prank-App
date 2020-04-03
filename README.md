@@ -1,6 +1,6 @@
 # April-Fool-Prank-App
 
-It's a simple web-app create using AWS Elastic Beanstalk. It's based on flask and used Bootstrap CSS. 
+It's a simple web-app create using AWS Elastic Beanstalk. It's based on flask and uses Bootstrap CSS. 
 
 Application link - https://bit.ly/2Jn9ra1
 
