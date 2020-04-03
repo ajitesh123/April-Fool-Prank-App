@@ -5,7 +5,7 @@ It's a simple web-app create using AWS Elastic Beanstalk. It's based on flask an
 Application link - https://bit.ly/2Jn9ra1
 
 ## Motivation
-The idea of was simple to create an application were put info to get H1B lottery result, which was supposed to be out by 31st March. I liked the app because it took me just an hour to deploy this application. 
+The idea of this app was to create an application were users put info to get H1B lottery result, which was supposed to be out by 31st March. Ofcourse, it's not a public information, so the app just gives you funny message once you entered your information. I liked the app because it took me just an hour to deploy this application. 
 
 ## Getting Started 
 To follow the procedures in this guide, please have following installed:
